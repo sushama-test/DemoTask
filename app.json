@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MatchTheCard",
+    "slug": "MatchTheCard",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MatchTheCard"
+}
